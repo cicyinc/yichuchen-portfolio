@@ -10,4 +10,7 @@ In this class, I hope to learn more about how to deliver data in useful and appe
 # Portfolio
 Here is where all my cool data visualizations will go!
 
-[General Government Debt](/dataviz2.md)
+# Assignment: Visualizing government debt
+<div class="flourish-embed flourish-chart" data-src="visualisation/4269208"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+[General Government Debt Assignment](/dataviz2.md)
