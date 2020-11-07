@@ -11,4 +11,5 @@ In this class, I hope to learn more about how to deliver data in useful and appe
 Here is where all my cool data visualizations will go!
 
 Assignment #1
+
 [General Government Debt](/dataviz2.md)
