@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <header class="gvr_data">
         <h1>General Dovernment Debt</h1>
