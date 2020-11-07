@@ -10,4 +10,4 @@ In this class, I hope to learn more about how to deliver data in useful and appe
 # Portfolio
 Here is where all my cool data visualizations will go!
 
-[some text here](/dataviz2.md)
+[some text here](/dataviz2.html)
