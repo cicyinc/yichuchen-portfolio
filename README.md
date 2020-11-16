@@ -10,6 +10,10 @@ In this class, I hope to learn more about how to deliver data in useful and appe
 # Portfolio
 Here is where all my cool data visualizations will go!
 
-Assignment #1
+Assignment #2
 
 [General Government Debt](/dataviz2.md)
+
+Assignment #3 & 4
+
+[Critique by Design](/dataviz3and4.md)
