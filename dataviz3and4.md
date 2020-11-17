@@ -5,7 +5,7 @@
 ![1](1.png)
 
 **Background:**
-I found this original visualization in the [Digital media trends survey, 14th edition](https://www2.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey/summary.html) on [Deloitte Insight](https://www2.deloitte.com/us/en/insights.html). The article presents the change of consumer preference on paid media subscriptions before and since COVID-19 based on their pre-COVID-19 and COVID-19 survey. The visualization intends to showcase that U.S. consumers prefer cheaper, ad-supported streaming video options both before and since the pandemic, while there is also a small increase in ad-supported streaming video options since the lockdown. I selected this visualization because I found there are many improvements could be made to increase the overall clarity of the visualization. 
+I found this original visualization in the [Digital media trends survey, 14th edition](https://www2.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey/summary.html) on [Deloitte Insight](https://www2.deloitte.com/us/en/insights.html). The article presents the change of consumer preference on paid media subscriptions before and since COVID-19 based on their pre-COVID-19 and COVID-19 survey. The visualization intends to showcase that U.S. consumers prefer cheaper, ad-supported streaming video options both before and since the pandemic, while there is also a small increase in ad-supported streaming video options since the lockdown. As a student in the entertainment industry program who read media-related articles daily, I found this particular visualization to be a perfect example to work with since I could apply the knowledge I learned in this class in the industry that I am pursuing. I selected this visualization because I found that there are many improvements that could be made to increase the overall clarity of the visualization. 
 
 ## Critique
 
@@ -49,7 +49,7 @@ Overall, I think this critique method is quite successful. This critique has led
 
 During my redesign process, I initially thought that both a stacked bar chart or a pie chart would work to represent the data. While a pie chart can show percentage or proportional data well, a stacked bar chart also works since it can compare data from time to time, meanwhile presenting proportional data. Since I was unsure, I tried to sketch both of them out. 
 
-![digitalmediatrend-sketch2](digitalmediatrend-sketch2.png)
+![digitalmediatrend-sketch3](digitalmediatrend-sketch3.png)
 
 ![digitalmediatrend-sketch](digitalmediatrend-sketch.png)
 
@@ -59,7 +59,7 @@ After comparing them side to side, I personally found that the pie chart deliver
 
 **Feedback 1:**
 - "I like the pie chart. It's clean, straightforward and easy to read."
-- "Is the 3% change in ad-only important? If it is, maybe include a brief description?"
+- "Move the titles above the pie chart."
 - "The use of color of your redesign makes the main subject much clear. I had a hard time picking the main point on the original graph."
 
 **Feedback 2:**
@@ -67,7 +67,12 @@ After comparing them side to side, I personally found that the pie chart deliver
 - "Although you are not contrasting before and since COVID-19, you are still comparing. Consider to include 'COVID-19' in the title."
 
 **Takeaways:**
-Interestingly, both of my friends prefer the pie chart over the stacked bar chart. Their feedback also helped me to points out some details that I didn't think about before I start my redesign. 
+Interestingly, both of my friends prefer the pie chart over the stacked bar chart. Their feedback also helped me to points out some details such as text position and word phrase that I didn't think about. 
 
 ### Re-designed visualization
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/4379000"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Summary
+
 
