@@ -64,15 +64,14 @@ After comparing them side to side, I personally found that the pie chart deliver
 
 **Feedback 2:**
 - "The pie chart looks better. It immediately tells me the main message on the title visually."
+- "Include percentage on the pie chart."
 - "Although you are not contrasting before and since COVID-19, you are still comparing. Consider to include 'COVID-19' in the title."
 
 **Takeaways:**
-Interestingly, both of my friends prefer the pie chart over the stacked bar chart. Their feedback also helped me to points out some details such as text position and word phrase that I didn't think about. 
+Interestingly, both of my friends prefer the pie chart over the stacked bar chart. They both think that the pie chart conveys the subject better compared to the stacked bar chart. Their feedback also point out some details such as text position and word phrase that I didn't think about. I then modified my final visualization based on their feedback.
 
 ### Re-designed visualization
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4379000"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### Summary
-
-
+For my redesigned fat visualization, I used flourish to create a grid of pie charts. While the original visualization includes a brief description below each label, the new visualization moves the description into pie chart popups. Although I initially wanted to have the descrption by the legend, flourish doesn't offer such option. Speaking of the type of visualization, the use of pie chart simplifies the percentage-related information in an easy-to-read manner. Moreover, using different shades of blue on “ads only” and “some ads” indicates that they are under one big category of “ad-supported” consumers. The use of grey on “no ads” also keeps readers’ attention toward the more important parts. I also rewrite the title to be more specific and and informative. 
