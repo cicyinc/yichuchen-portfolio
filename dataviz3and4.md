@@ -47,19 +47,24 @@ Overall, I think this critique method is quite successful. This critique has led
 
 ### Process and wireframing
 
+During my redesign process, I initially thought that both a stacked bar chart or a pie chart would work to represent the data. While a pie chart can show percentage or proportional data well, a stacked bar chart also works since it can compare data from time to time, meanwhile presenting proportional data. Since I was unsure, I tried to sketch both of them out. 
+
 ![digitalmediatrend-sketch](digitalmediatrend-sketch.png)
+
+After comparing them side to side, I personally found that the pie chart delivers the main message better since it delivers how each part contributes to that whole more straightforwardly. Also, since the article focuses more on conveying the message "more consumers prefer ad-supported streaming services" rather than comparing the slight change before and since the pandemic, a pie chart would be more appropriate to use. To test out the solution, I showed both sketches to my friends and asked for their feedback.
 
 ### Feedback on wireframes
 
-**Friend 1:**
-- "i d."
+**Feedback 1:**
+- "I like the pie chart. It's clean, straightforward and easy to read."
+- "Is the 3% change in ad-only important? If it is, maybe include a brief description?"
 - "The use of color of your redesign makes the main subject much clear. I had a hard time picking the main point on the original graph."
-- ""
 
-**Friend 2:**
-- "ed."
+**Feedback 2:**
+- "The pie chart looks better. It immediately tells me the main message on the title visually."
+- "Although you are not contrasting before and since COVID-19, you are still comparing. Consider to include 'COVID-19' in the title."
 
 **Takeaways:**
-Their feedback helped me to think 
+It's interesting that both of my friends prefers the pie chart over the stacked bar chart. Their feedback also helped me to points out some details that I didn't think upon before I start my redesign. 
 
 ### Re-designed visualization
