@@ -2,6 +2,8 @@
 
 ## The original visualization
 
+![digitalmediatrend](digitalmediatrend.png)
+
 **Background:**
 I found this original visualization in the [Digital media trends survey, 14th edition](https://www2.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey/summary.html) on [Deloitte Insight](https://www2.deloitte.com/us/en/insights.html). The article presents the change of consumer preference on paid media subscriptions before and since COVID-19 based on their pre-COVID-19 and COVID-19 survey. The visualization intends to showcase that U.S. consumers prefer cheaper, ad-supported streaming video options both before and since the pandemic, while there is also a small increase in ad-supported streaming video options since the lockdown. I selected this visualization because I found there are many improvements could be made to increase the overall clarity of the visualization. 
 
@@ -44,6 +46,8 @@ Overall, I think this critique method is quite successful. This critique has led
 ## Redesign of the visualization
 
 ### Process and wireframing
+
+![digitalmediatrend-sketch](digitalmediatrend-sketch.png)
 
 ### Feedback on wireframes
 
