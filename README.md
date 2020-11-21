@@ -17,3 +17,7 @@ Assignment #2
 Assignment #3 & 4
 
 [Critique by Design](/dataviz3and4.md)
+
+Final Project
+
+[Part I: Final project proposal](/final_project_YichuChen.md)
