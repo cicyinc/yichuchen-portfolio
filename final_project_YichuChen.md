@@ -14,7 +14,6 @@ The project was initially inspired by my voluntary teaching experience last year
 
 **Story Arc**
 ![1](11221.png)
-
 **Hook**
 - I would first present some facts to catch the readers' attention.
 - For instance, "48% children in immigrant families live below 200% of the poverty threshold." 
@@ -47,7 +46,9 @@ The project was initially inspired by my voluntary teaching experience last year
 
 **Call to action**
 - What can you do to help those students? 
-- I plan to include specifc website.
+- Firstly, I hope to use my work to raise public awareness about the educational needs of students from low socio-economic status backgrounds.
+- I would also convince my audience to take action. I will include links to non-profit child sponsorship organizations that people could donate, sponsor, and help those children in need.
+- Moreover, I would recommend my audience to volunteer to be a mentor for those children in need. I will provide information and links about mentor programs around the country for their references.
 
 ### Initial sketches
 
