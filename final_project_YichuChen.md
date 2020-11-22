@@ -1,6 +1,6 @@
 # Final Project Proposal
 
-## Children in Lower-Income, Immigrant Families
+## Supporting the educational needs of students from low socio-economic status backgrounds in the United States
 
 ### Summary
 
@@ -8,25 +8,30 @@ For my final project, I decided to focus on the educational problem for children
 
 ### Insipration
 
-The project was intially inspired by one of my voluntary teaching experience. In 2019, I spent one year mentoring two kids from lower-imcome immigrant families in San Diego, California. During the time I spent with my mentees, I found that they were facing numerous acdemic difficulties in school such as language barriers
+The project was intially inspired by my voluntary teaching experience last year. In 2019, I spent one year mentoring two kids from lower-imcome immigrant families in San Diego, California. Both of my students are from 
+
+During the time I spent with my mentees, I found that they were facing numerous difficulties such as language barriers, parental involvements
 
 ### Project Structure
 
 - Introduce the general eductaion background in the United States
+-- dedf
 - More Than Half of Kids in Immigrant Families Lived in Low-Income Households
+
 - Children in immigrant families in which resident parents have difficulty speaking English
 - Call to action
 
 
-## Initial sketches
+### Initial sketches
 
 
 
-## Data Sources
+### Data Sources
 
+https://datacenter.kidscount.org/updates/show/189-more-than-half-of-kids-in-immigrant-families-lived-in-low-income-households-in-2016
 https://www.first5california.com/en-us/services/immigrant-family-resources/
 
-## Method and medium
+### Method and medium
 
 To design my visualizations based on the data that I collected, I will mainly rely on using Flourish and Tableau. 
 
