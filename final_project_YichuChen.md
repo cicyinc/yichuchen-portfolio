@@ -4,7 +4,7 @@
 
 ### Summary
 
-For my final project, I decided to focus on the educational problem for children from low socio-economic status backgrounds in the United States. More specifically, I would focus on chidren from lower-income, immigrant families. Compared to kids in U.S.-born families, kids in immigrant families are more likely to grow up in low-income households. Many of their parents have difficulty speaking English and low educational attainment. Due to the socioeconomic disadvantages, children from such families face limitations in education and language. In my project, I will discuss the issue in detail and I will convey the story to my audience by visualizing the data I collected from reliable sources such as the Kids Count Data Center, Urban Institute, and World Education News + Reviews. 
+For my final project, I decided to focus on the educational problem for children from low socio-economic status backgrounds in the United States. More specifically, I would focus on chidren from lower-income, immigrant families. Compared to kids in U.S.-born families, kids in immigrant families are more likely to grow up in low-income households. Many of their parents have difficulty speaking English and have low educational attainment. Due to the socioeconomic disadvantages, children from such families face limitations in education and language. In my project, I will discuss the issue in detail and I will convey the story to my audience by visualizing the data I collected from reliable sources such as the Kids Count Data Center, Urban Institute, and World Education News + Reviews. 
 
 ### Insipration
 
@@ -13,7 +13,7 @@ The project was initially inspired by my voluntary teaching experience last year
 ### Project Structure
 
 **Story Arc**
-![1](11221.png)
+![1](Page1.jpg)
 **Hook**
 - I would first present some facts to catch the readers' attention.
 - For instance, "48% children in immigrant families live below 200% of the poverty threshold." 
@@ -53,6 +53,7 @@ The project was initially inspired by my voluntary teaching experience last year
 ### Initial sketches
 
 **Hook**
+
 ![2](11224.png)
 
 **Background Introduction**
