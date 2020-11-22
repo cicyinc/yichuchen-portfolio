@@ -4,7 +4,7 @@
 
 ### Summary
 
-For my final project, I decided to focus on the educational problem for children from  low socio-economic status backgrounds in the United States. More specifically, I would focus on chidren from lower-income, immigrant families. Compared to kids in U.S.-born families, kids in immigrant families are more likely to grow up in low-income households. Many of their parents have difficulty speaking English and low educational attainment. Due to the socioeconomic disadvantages, children from such families face limitations in education and language. In my project, I will discuss the issue in detail and I will convey the story to my audience by visualizing the data I collected from reliable sources such as the Kids Count Data Center, Urban Institute, and World Education News + Reviews. 
+For my final project, I decided to focus on the educational problem for children from low socio-economic status backgrounds in the United States. More specifically, I would focus on chidren from lower-income, immigrant families. Compared to kids in U.S.-born families, kids in immigrant families are more likely to grow up in low-income households. Many of their parents have difficulty speaking English and low educational attainment. Due to the socioeconomic disadvantages, children from such families face limitations in education and language. In my project, I will discuss the issue in detail and I will convey the story to my audience by visualizing the data I collected from reliable sources such as the Kids Count Data Center, Urban Institute, and World Education News + Reviews. 
 
 ### Insipration
 
@@ -65,7 +65,7 @@ The project was initially inspired by my voluntary teaching experience last year
 
 ### Data Sources
 
-Below is a list of data sources I found that I will be using for the project. I intend on deriving my contents and visualizations from here meanwhile I will also do more research along the way.
+Below is a list of data sources I found that I will be using for the project. I mainly collected my data from the Kids Count Data Center as well as other credible resources. 
 
 - World Education News + Reviews: https://wenr.wes.org/2018/06/education-in-the-united-states-of-america
 - Kids Count Data Center: https://datacenter.kidscount.org/updates/show/189-more-than-half-of-kids-in-immigrant-families-lived-in-low-income-households-in-2016
@@ -78,8 +78,10 @@ Below is a list of data sources I found that I will be using for the project. I 
 - The Hill: https://thehill.com/opinion/immigration/515126-covid-19-include-immigrant-families-and-children-in-relief-effort
 - American Psychological Association: https://www.first5california.com/en-us/services/immigrant-family-resources/
 
+Based on the data I found, I will reorganize the data from various sources to recreate my visualizations. I plan to pick red as my themed color and build all my visulizations based on the color. Since some of the sources here contain raw data, I also hope to condense the dataset so I can mainly focus on the recent data within the past five years. I intend on deriving my contents and visualizations from here meanwhile I will also do more research along the way. 
+
 ### Method and medium
 
-To design my visualizations based on the data that I collected, I will mainly rely on using Flourish and Tableau. 
+To complete my final project, I plan to conduct further research on the educational problem for children from low socio-economic status backgrounds in the United States. After I finished collecting all the data that I plan to use, I will clean and compile it into one google sheet. On the other hand, I also hope to pitch my story and showcase my story arc to two of my friends. Similar to the procedure from the last assignment, I wish to get some feedback for my story so I can make sure that my audience can better understand my message. After hearing their feedback, I will rearrange some parts so my story could be more cohesive and engaging. 
 
-I will use Shorthand, this is also the platform I will present my work on.
+To design my visualizations based on the data that I collected, I will mainly rely on using Flourish and Tableau. After I finished working on my visualizations, I plan to use Shorthand as the platform to present my work. I think Shorthand will be an appropriate platform to use since it allows me to showcase my data visualizations and persuasive images in a appealing way. Moreover, since I wish to use my work to increase public awareness on the current educational issues, I could also share my Shorthand links on social media after my work is finished. 
