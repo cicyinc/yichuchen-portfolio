@@ -1,6 +1,14 @@
 # Part II: Wireframes, storyboards, moodboards and user research
 
-## Wirefames / storyboard for user feedback
+## Wireframes and storyboard
+
+For my wireframe and storyboard, I expanded the wireframes I created in Part I by adding more supporting data and designing a visual walk-through for my final shorthand website. However, the visualizations and text are just a preview of the final version in shorthand. For some visualization such as the U.S. map, I would rely on Flourish or Tableau so there will be more visualizations and longer text/data facts in my final product. Also, some of the text I included are my organized thoughts for the storyboard; hence they may not appear in shorthand.
+
+![wireframe1](wireframe1.jpg)
+![wireframe2](wireframe2.jpg)
+![wireframe3](wireframe3.jpg)
+![wireframe4](wireframe4.jpg)
+![wireframe5](wireframe5.jpg)
 
 ## User research protocol
 
