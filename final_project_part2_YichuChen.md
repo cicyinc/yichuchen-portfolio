@@ -43,14 +43,40 @@ Thank you so much! I really appreciate you for taking the time to offer valueble
 | Question | Answer |
 | ------ | ------ |
 | Can you summarize what the storyline is telling you in just one or two sentences? | The students from low socio-economic status backgrounds in the United States are facing difficulties to get fundamental education. |
-| Who do you think the intended audience is for the site? | [plugins/github/README.md][PlGh] |
-| Does the storyline flow smoothly?  | [plugins/googledrive/README.md][PlGd] |
-| Is there anything you would change or do differently? | [plugins/onedrive/README.md][PlOd] |
-| Is there any other information that you thought was lacking? If so, what would you have liked to see? | [plugins/medium/README.md][PlMe] |
-| Are all the visualizations appealing and clear? | [plugins/googleanalytics/README.md][PlGa] |
-| Does the call to action resonate with you? | [plugins/googleanalytics/README.md][PlGa] |
+| Who do you think the intended audience is for the site? |U.S. citizens. |
+| Does the storyline flow smoothly?  | I think it worked well. Using those surprising facts as a hook especially drew my attention to your story. |
+| Is there anything you would change or do differently? |  |
+| Is there any other information that you thought was lacking? If so, what would you have liked to see? | I understand that this is just a draft. But I would like to see more data to support your story for your final website. |
+| Are all the visualizations appealing and clear? | Yes. But for the educational system visualization graph, I think you should reverse the order. Because you need to consider that people scroll down websites so your visual should also start from the top. |
+| Does the call to action resonate with you? | Yes, it does. |
+
+**Interview #2, a high school teacher**
+
+| Question | Answer |
+| ------ | ------ |
+| Can you summarize what the storyline is telling you in just one or two sentences? | The students from low socio-economic status backgrounds in the United States are facing difficulties to get fundamental education. |
+| Who do you think the intended audience is for the site? |U.S. citizens. |
+| Does the storyline flow smoothly?  | I think it worked well. Using those surprising facts as a hook especially drew my attention to your story. |
+| Is there anything you would change or do differently? |  |
+| Is there any other information that you thought was lacking? If so, what would you have liked to see? | I understand that this is just a draft. But I would like to see more data to support your story for your final website. |
+| Are all the visualizations appealing and clear? | Yes. But for the educational system visualization graph, I think you should reverse the order. Because you need to consider that people scroll down websites so your visual should also start from the top. |
+| Does the call to action resonate with you? | Yes, it does. |
+
+**Interview #3, an undergrad student**
+
+| Question | Answer |
+| ------ | ------ |
+| Can you summarize what the storyline is telling you in just one or two sentences? | The students from low socio-economic status backgrounds in the United States are facing difficulties to get fundamental education. |
+| Who do you think the intended audience is for the site? |U.S. citizens. |
+| Does the storyline flow smoothly?  | I think it worked well. Using those surprising facts as a hook especially drew my attention to your story. |
+| Is there anything you would change or do differently? |  |
+| Is there any other information that you thought was lacking? If so, what would you have liked to see? | I understand that this is just a draft. But I would like to see more data to support your story for your final website. |
+| Are all the visualizations appealing and clear? | Yes. But for the educational system visualization graph, I think you should reverse the order. Because you need to consider that people scroll down websites so your visual should also start from the top. |
+| Does the call to action resonate with you? | Yes, it does. |
 
 ### Findings from interviews
+
+- 
 
 ### Changes you plan on implementing to your visualizations next week to address the issues identified. 
 
