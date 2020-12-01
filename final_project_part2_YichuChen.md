@@ -82,11 +82,23 @@ Thank you so much! I really appreciate you for taking the time to offer valueble
 | Are all the visualizations appealing and clear? | Yes, they are clear enough for me to understand. |
 | Does the call to action resonate with you? | Somehow. I believe it has something to do with personal experience. If one knows relative or friend suffer from the problem around them, one will resonate more. |
 
-### Findings from interviews
+### General findings from interviews
 
-- 
+Overall, the feedback for the wireframe is quite positive. It also provided me some detailed and useful advices on my audience list and visualizations.
 
-### Changes you plan on implementing to your visualizations next week to address the issues identified. 
+- Target audience: I would also start to consider the economic status of my target audience demographic. My target audience would for sure be middle class or above.
+- Story focus: The storyline needs further refinement. I would consider providing more information on the effects of the recent pandemic and will elaborate a little more on my personal story part for my final website.
 
+### Changes I plan on implementing to my visualizations
+
+- Visualizations: I think the feedback I got on the educational system visualization graph was very useful. I would also research more on parental involvement and hope that I can get better-supporting data.
+- Color: I plan to change my theme color to dark red or dark blue instead based on the feedback. I think the red that I used for my sketch was a little too bright.
+
+### Revised wireframes
+
+Below is my revised wireframe for the educational system visualization. For feedbacks on the other visualizations, I plan to directly implement the revision on my digital visualizations through Flourish or Tableau.
+![wireframe6](wireframe6.jpg)
 
 ## Moodboard
+
+![moodboard](moodboard.png)
