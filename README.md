@@ -26,4 +26,4 @@ Final Project
 
 [Part III: Final deliverable](/final_project_part3_YichuChen.md)
 
-[Final Data Story](https://wenr.wes.org/2018/06/education-in-the-united-states-of-america)
+[Final Data Story](https://carnegiemellon.shorthandstories.com/educational-constraints-of-immigrant-students-in-the-united-states/index.html#group-Education-Attainment-2s9durFqZK)
