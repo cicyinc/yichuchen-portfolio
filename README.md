@@ -30,4 +30,5 @@ Final Project
 
 # GitHub Link
 [Github repository](https://github.com/cicyinc/yichuchen-portfolio)
+
 [Github profile](https://github.com/cicyinc)
