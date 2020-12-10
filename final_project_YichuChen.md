@@ -1,4 +1,4 @@
-# Final Project Proposal
+# Part I: Final project proposal
 
 ## Supporting the educational needs of students from low socio-economic status backgrounds in the United States
 
