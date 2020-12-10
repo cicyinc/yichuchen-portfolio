@@ -26,4 +26,8 @@ Final Project
 
 [Part III: Final deliverable](/final_project_part3_YichuChen.md)
 
-[Final Data Story](https://carnegiemellon.shorthandstories.com/educational-constraints-of-immigrant-students-in-the-united-states/index.html)
+[Final data story](https://carnegiemellon.shorthandstories.com/educational-constraints-of-immigrant-students-in-the-united-states/index.html)
+
+# GitHub Link
+[Github repository](https://github.com/cicyinc/yichuchen-portfolio)
+[Github profile](https://github.com/cicyinc)
