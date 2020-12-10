@@ -23,3 +23,7 @@ Final Project
 [Part I: Final project proposal](/final_project_YichuChen.md)
 
 [Part II: Final project wireframes, storyboards and user research](/final_project_part2_YichuChen.md)
+
+[Part III: Final deliverable](/final_project_part3_YichuChen.md)
+
+
