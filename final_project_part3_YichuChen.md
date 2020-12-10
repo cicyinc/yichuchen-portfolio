@@ -21,7 +21,7 @@ Furthermore, speaking of the types of my visualizations, I mainly chose common c
 ## Summary
 Overall, I think working on this project was such an interesting experience. I did not only learned a lot of data visualization knowledge and tools but also got to apply the knowledge to tell a story that I am personally interested in. I also found that the user research protocol and the group discussions in class helped a lot to refine my content and improve my overall storyline. I really enjoyed working on this project and I believe that the skills and knowledge I gained in this class will certainly improve my storytelling ability in my future workplace.
 
-## Updated Data Sources
+## Updated data sources
 - Migration Policy: https://www.migrationpolicy.org/article/frequently-requested-statistics-immigrants-and-immigration-united-states
 - KIDS COUNT data center: https://datacenter.kidscount.org/data/tables/132-children-in-immigrant-families-in-which-resident-parents-have-difficulty-speaking-english?loc=1&loct=2#detailed/2/2-53/true/37/any/479
 - Migration Policy: https://www.migrationpolicy.org/programs/data-hub/charts/children-immigrant-families?width=1000
