@@ -10,15 +10,15 @@ In this class, I hope to learn more about how to deliver data in useful and appe
 # Portfolio
 Here is where all my cool data visualizations will go!
 
-Assignment #2
+**Assignment #2**
 
 [General Government Debt](/dataviz2.md)
 
-Assignment #3 & 4
+**Assignment #3 & 4**
 
 [Critique by Design](/dataviz3and4.md)
 
-Final Project
+**Final Project**
 
 [Part I: Final project proposal](/final_project_YichuChen.md)
 
